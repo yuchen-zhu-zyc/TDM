@@ -1,0 +1,11 @@
+tokens: 3
+model:
+  name: small
+  type: ddit
+  hidden_size: 384
+  cond_dim: 128
+  length: 4   # 1024
+  n_blocks: 1  # 12
+  n_heads: 4
+  scale_by_sigma: False
+  dropout: 0.1

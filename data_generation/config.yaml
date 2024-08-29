@@ -1,0 +1,18 @@
+dim: 10
+batch: 100000
+time: 1
+data: spinglass_u(n) # Choices : electron1d_u(n), gaussian_so(n), spinglass_u(n)
+
+gaussian:
+  mean: 0
+  var: 1
+
+electron1D:
+  angular_min: 2
+  angular_max: 3
+  center_mean: 0
+  center_var: 1
+
+  spinglass:
+    spin_num: 2
+
