@@ -107,7 +107,20 @@ Current support data type:
 * U(n) matrix that are $e^{itH}$, where $t$ is the time, $H = \sum_{\langle i, j \rangle} J_{ij} \sigma_i^{z}\sigma_{j}^{z} + \sum_{i} g_{i} \sigma_{i}^{x}$ is the Hamiltonian for Transverse field Ising Model. Here $J_{ij}$ and $g_{i}$ are random coupling and random field strength respectively.
 
 
-If find our work useful,please cite our paper:
+## Reference
+If you find our work useful to your research, we would appreciate your citations:
+
+```
+@inproceedings{
+zhu2025trivialized,
+title={Trivialized Momentum Facilitates Diffusion Generative Modeling on Lie Groups},
+author={Yuchen Zhu and Tianrong Chen and Lingkai Kong and Evangelos Theodorou and Molei Tao},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=DTatjJTDl1}
+}
+```
+
 ```
 @article{zhu2024trivialized,
   title={Trivialized Momentum Facilitates Diffusion Generative Modeling on Lie Groups},
