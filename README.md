@@ -18,7 +18,6 @@ For `Conda` installation:
 ```
 conda env create -f requirements.yaml
 conda activate tdm
-bash setup/conda_setup.sh
 ```
 
 ## Training: example usage for ISM
