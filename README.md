@@ -48,7 +48,7 @@ python main.py --problem-name SpinGlass --spin-num $NUM_SPIN --dir $DIR
 
 ```
 
-## Training: example usage for ISM
+## Training: example usage for DSM
 ```
 #Protein General/Glycine/PrePro/Proline
 python main.py  --problem-name Protein --Protein-name $PROTEIN --dir $DIR  
